@@ -1,4 +1,4 @@
-# Relevant techniques
+# Relevant techniques and frameworks
 - Dependency Injection
 - ASP.NET Core
 
